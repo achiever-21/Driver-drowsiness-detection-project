@@ -26,6 +26,12 @@ The Driver Drowsiness Detection System is an innovative solution designed to enh
 
 - Python 3.x
 - Dependencies listed in `requirements.txt`
+- The dataset which was used is a subnet of a dataset from(https://www.kaggle.com/datasets/dheerajperumandla/drowsiness-dataset)
+it has 4 folder which are
+1) Closed_eyes - having 726 pictures
+2) Open_eyes - having 726 pictures
+3) Yawn - having 725 pictures
+4) no_yawn - having 723 pictures
 
 ### Installation
 
